@@ -105,7 +105,6 @@ function closeEvent()
     function(event)
     {
       event.preventDefault();
-      debugger
       $('#ContentDiv').css('display', 'none');
     }
   );
