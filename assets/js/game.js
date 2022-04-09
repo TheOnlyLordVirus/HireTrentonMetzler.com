@@ -1,6 +1,6 @@
 /*
   This is some really bad code.
-  but I wrote half of it for fun in my ASP.Net class since I the class progression was taking to long.
+  but I wrote half of it for fun in my ASP.Net class since the class progression was taking to long.
 */
 var down = {};
 var $html = $("html");
